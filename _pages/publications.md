@@ -5,12 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
+Bhandari, P., & Lee, T. G. (2021). A genetic map and linkage panel for the large-fruited fresh-market tomato. Journal of the American Society for Horticultural Science, 146(2), 125-131.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Bhandari, P., Shekasteband, R., & Lee, T. G. (2022). A Consensus Genetic Map and Linkage Panel for Fresh-market Tomato. Journal of the American Society for Horticultural Science, 147(1), 53-61.
