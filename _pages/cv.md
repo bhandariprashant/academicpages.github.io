@@ -11,49 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+  * B.S. in Agriculture, Agriculture and Forestry University (AFU), 2018
+* Ph.D in Horticultural Sciences, University of Florida, 2019-ongoing
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  *  August 2019-current: Graduate Research Assistant
+* University of Florida
+* Advisor: Dr. Tong Geon Lee
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Nov 2018 - June 2019: Instructor
+* Informatics consultancy
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Genetic data analysis
+* R programming
+* ggplot2
+* data wrangling
+* writing packages
+* Command line informatics, awk, sed, etc.
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  Bhandari, P., & Lee, T. G. (2021). A genetic map and linkage panel for the large-fruited fresh-market tomato. Journal of the American Society for Horticultural Science, 146(2), 125-131.
+Bhandari, P., Shekasteband, R., & Lee, T. G. (2022). A Consensus Genetic Map and Linkage Panel for Fresh-market Tomato. Journal of the American Society for Horticultural Science, 147(1), 53-61.
+
+
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+  Development of a High-Density Genetic Linkage Map and a Universal Linkage Panel of the US Large-Fruited, Fresh-Market Tomatoes. 2020 ASHS Annual Conference.
+A Consensus Genetic Map and Linkage Panel for Fresh-market Tomato. 2021 ASHS Annual Conference.
+
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  Bioinformatic Technologies (PCB7922), Teaching assistant to Dr. Tong Geon Lee
+
+
