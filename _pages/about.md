@@ -13,7 +13,7 @@ I am a third-year PhD student in Dr. Tong Geon Lee's Lab at Horticultural Scienc
 
 
 
-I study genetics of complex traits in plants. While my research overlaps with plant breeding, bioinformatics, genomics, statistics, and machine learning;
+I study genetics of complex traits in plants. While my research overlaps with plant breeding, bioinformatics, genomics, statistics, and machine learning,
 at my core, I am training as an applied geneticist. 
 
 
