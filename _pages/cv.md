@@ -11,26 +11,23 @@ redirect_from:
 
 Education
 ======
-  * B.S. in Agriculture, Agriculture and Forestry University (AFU), 2018
+* B.S. in Agriculture, Agriculture and Forestry University (AFU), 2018
 * Ph.D in Horticultural Sciences, University of Florida, 2019-ongoing
 
 Work experience
 ======
-  *  August 2019-current: Graduate Research Assistant
- University of Florida
+  *  August 2019-current: Graduate Research Assistant.
+ University of Florida,
 Advisor: Dr. Tong Geon Lee
 
-* Nov 2018 - June 2019: Instructor
+* Nov 2018 - June 2019: Instructor,
 Informatics consultancy
 
 Skills
 ======
   * Genetic data analysis
-* R programming
-ggplot2
-data wrangling
-writing packages
-* Command line informatics, awk, sed, etc.
+* R programming (ggplot2, functional programming, writing packages, etc)
+* Command line informatics (e.g. awk, sed, other CLI tools etc.)
 
 Publications
 ======
@@ -42,7 +39,10 @@ Bhandari, P., Shekasteband, R., & Lee, T. G. (2022). A Consensus Genetic Map and
 
 Talks
 ======
-  Development of a High-Density Genetic Linkage Map and a Universal Linkage Panel of the US Large-Fruited, Fresh-Market Tomatoes. 2020 ASHS Annual Conference.
+Development of a High-Density Genetic Linkage Map and a Universal Linkage Panel of the US Large-Fruited, Fresh-Market Tomatoes. 2020 ASHS Annual Conference.
+  
+  
+  
 A Consensus Genetic Map and Linkage Panel for Fresh-market Tomato. 2021 ASHS Annual Conference.
 
 
