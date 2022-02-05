@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a third-year PhD student in Tong Geon Lee Lab at Horticultural Sciences department, University of Florida.
+I am a third-year PhD student in Dr. Tong Geon Lee's Lab at Horticultural Sciences department, University of Florida.
 
 
 
