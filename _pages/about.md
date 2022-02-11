@@ -21,7 +21,7 @@ I study the genetics of complex traits in plants. While my research overlaps wit
 
 
 
-I am excited by the possibilities each fresh set of DNA sequences and phenotypes brings in answering research questions. I enjoy data wrangling, data analysis, and programming to address the challenges brought in by high-dimensional data.
+I am excited by the possibilities each fresh set of DNA sequences and phenotypes brings in answering research questions. I enjoy data wrangling, data analysis, and programming to make sense of high-dimensional data.
 
 
 
