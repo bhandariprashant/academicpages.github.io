@@ -27,4 +27,4 @@ I am excited by the possibilities each fresh set of DNA sequences and phenotypes
 
 
 
-Next time you meet me, let’s talk about the scientific method or the big Lebowski or genomics or fantasy premier league (EPL) or machine learning or the wire or reproducible research or your favorite standup artist or your research.
+Next time you meet me, let’s talk about the scientific method or the big Lebowski or machine learning or fantasy premier league (EPL) or the wire or your research.
