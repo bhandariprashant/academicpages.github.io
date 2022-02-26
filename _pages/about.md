@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a third-year Ph.D. student in Dr. Tong Geon Lee’s Lab at the Horticultural Sciences Department, University of Florida.
+I am a third-year Ph.D. student in [Dr. Tong Geon Lee’s Lab](https://tonggeonlee.org/) at the [Horticultural Sciences Department, University of Florida](https://hos.ifas.ufl.edu/).
 
 
 
@@ -27,4 +27,4 @@ I am excited by the possibilities each fresh set of DNA sequences and phenotypes
 
 
 
-Next time you meet me, let’s talk about the scientific method or the big Lebowski or machine learning or fantasy premier league (EPL) or the wire or your research.
+Next time you meet me, let’s talk about the [scientific method](https://youtu.be/qE0UimODxNg) or the [fantasy premier league](https://fantasy.premierleague.com/) or your research.
