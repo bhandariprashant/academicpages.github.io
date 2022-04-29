@@ -27,4 +27,4 @@ I am excited by the possibilities each fresh set of DNA sequences and phenotypes
 
 
 
-Next time you meet me, let’s talk about the [scientific method](https://youtu.be/EYPapE-3FRw) or the [fantasy premier league](https://fantasy.premierleague.com/) or your research.
+Next time you meet me, let’s talk about informatics or the [fantasy premier league](https://fantasy.premierleague.com/) or your research.
