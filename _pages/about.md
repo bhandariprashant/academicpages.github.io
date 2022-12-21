@@ -8,23 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-
-I am a third-year Ph.D. student in [Dr. Tong Geon Lee’s Lab](https://tonggeonlee.org/) at the [Horticultural Sciences Department, University of Florida](https://hos.ifas.ufl.edu/).
-
+I am an interdisciplinary, process-oriented scientist with skills in bioinformatics, genomics, quantitative genetics, plant breeding, and plant sciences.
 
 
+I am completing my Ph.D. with [Dr. Tong Geon Lee] (https://tonggeonlee.org/) at the [University of Florida](https://hos.ifas.ufl.edu/). Here, I studied
+recombination, association mapping, and genomic selection of complex traits like yield.
 
-I study the genetics of complex traits in plants. While my research overlaps with plant breeding, bioinformatics, genomics, statistics, and machine learning, at my core, I am training as an applied geneticist.
-
-
-
-
-
-
-I am excited by the possibilities each fresh set of DNA sequences and phenotypes brings in answering research questions. I enjoy data wrangling, data analysis, and programming to make sense of high-dimensional data.
-
-
-
-
-
-Next time you meet me, let’s talk about sparsity or the [fantasy premier league](https://fantasy.premierleague.com/) or your research.
+I am in the job market beginning 2023. I am looking for scientist/research positions where I want to contribute to the use of quantitative tools toward cultivar development.
