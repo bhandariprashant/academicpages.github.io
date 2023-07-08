@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Prashant Bhandari"
 title_separator          : "-"
 name                     : &name "Prashant Bhandari"
-description              : &description "PhD student at UF,"
+description              : &description "Postdoctoral associate at the Donald Danforth Plant Science Center,"
 url                      : https://bhandariprashant.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bhandariprashant/bhandariprashant.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Prashant Bhandari"
   avatar           : "Bhandari_P.jpg"
-  bio              : "PhD student, University of Florida"
-  location         : "Tampa, Florida"
+  bio              : "Postdoctoral Associate, Donald Danforth Plant Science Center"
+  location         : "St. Louis, Missouri"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=zbTRPFkAAAAJ&hl=en"
   email            :
